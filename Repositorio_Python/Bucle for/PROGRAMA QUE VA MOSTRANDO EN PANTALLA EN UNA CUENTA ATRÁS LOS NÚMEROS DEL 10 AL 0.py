@@ -1,0 +1,8 @@
+"""
+PROGRAMA QUE VA MOSTRANDO EN PANTALLA EN
+UNA CUENTA ATRÁS LOS NÚMEROS DEL 10 AL 0.
+UTILIZA UN BUCLE for
+"""
+
+for i in range (-10,1):
+    print(-i)
