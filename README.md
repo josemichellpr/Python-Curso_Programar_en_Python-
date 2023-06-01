@@ -1,1 +1,1 @@
-# Repositorio_Python_Curso_de_Manuel_Gonzalez
+Este es un curso que realice, el cual tiene una pedagogía intachable, dificil de mejorar. El profesor enseñaba el concepto o herramienta de Python a grandes rasgos y despues dejaba al alumno un reto cuidadosamente diseñado por él. Si te tomabas el curso con seriedad, como un servidor, te hacias de tus propias líneas de código y el entendimiento de este lenguaje de programación.
